@@ -1,0 +1,5 @@
+https://www.quora.com/In-PHP-how-do-I-print-out-all-of-the-inputs-that-have-been-submitted-with-a-form
+https://www.studentstutorial.com/php/php-crud.php
+https://www.php.net/manual/en/mysqli-stmt.bind-param.php
+https://codeofaninja.com/php-and-mysql-crud-tutorial/
+https://stackoverflow.com/questions/29629161/deleting-a-row-with-php-mysql
