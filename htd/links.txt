@@ -3,3 +3,4 @@ https://www.studentstutorial.com/php/php-crud.php
 https://www.php.net/manual/en/mysqli-stmt.bind-param.php
 https://codeofaninja.com/php-and-mysql-crud-tutorial/
 https://stackoverflow.com/questions/29629161/deleting-a-row-with-php-mysql
+https://learningprogramming.net/php-mysql/php/import-data-from-xml-file-to-php-and-mysql/
